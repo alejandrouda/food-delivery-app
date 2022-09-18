@@ -1,0 +1,18 @@
+.order-status_component {
+  padding: 10px 0px;
+  text-align: center;
+  color: white;
+}
+
+.order-status_number {
+  font-size: 46px;
+}
+
+.order-status_title {
+  font-size: 28px;
+}
+
+.selected {
+  color: black;
+  background-color: white;
+}

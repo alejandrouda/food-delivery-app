@@ -1,5 +1,6 @@
 .nav-left {
   width: 200px;
   height: 100vh;
-  background-color: #5047BF;
+  background-color: #5047bf;
+  padding-top: calc(25vh / 2);
 }
